@@ -1,0 +1,6 @@
+pytest==v6.2.4
+pytest_bdd==v4.0.2
+selenium
+
+
+
